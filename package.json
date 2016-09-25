@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-barebones",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Barebones ESLint config, extending JavaScript Standard Style.",
   "author": {
     "name": "Jayden Seric",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaydenseric/eslint-config-barebones.git"
+    "url": "https://github.com/jaydenseric/eslint-config-barebones.git"
   },
   "homepage": "https://github.com/jaydenseric/eslint-config-barebones",
   "bugs": "https://github.com/jaydenseric/eslint-config-barebones/issues",
