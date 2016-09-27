@@ -14,7 +14,7 @@ The ESLint sharable config used in [Barebones](https://github.com/jaydenseric/Ba
 Install via NPM:
 
 ```bash
-npm install eslint-config-barebones
+npm install eslint-config-barebones --save-dev
 ```
 
 Extend this config in your project's [ESLint config](http://eslint.org/docs/user-guide/configuring#using-a-shareable-configuration-package):

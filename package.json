@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-barebones",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Barebones ESLint config, extending JavaScript Standard Style.",
   "author": {
     "name": "Jayden Seric",
